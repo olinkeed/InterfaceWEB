@@ -43,7 +43,7 @@ ul{
     list-style-position: inside;
 }
 body{
-    background-image: url("back.jpg");
+    background-image: url("/imgs/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
